@@ -17,6 +17,9 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class Test {
+    /**
+     * google translate api (https://cloud.google.com/translate/docs/basic/setup-basic)
+     */
     private static final String GOOGLE_API_KEY = "xxx";
 
     public static void main(String[] args) {
